@@ -1,2 +1,4 @@
 # MOVIE-RECCOMENDATION
-This is a data science project on movie reccomendation which predicts or gives suggestion of next movie based on currrent search or users watch list.
+Developed a sophisticated movie recommendation system leveraging Natural Language Processing (NLP) and machine learning techniques. The system employs TF-IDF vectorization to convert movie plot summaries into numerical vectors, capturing the significance of key terms. By calculating cosine similarity scores between these vectors, the system determines the similarity between movies. The project utilizes Python libraries such as Pandas, Scikit-learn, and Difflib for efficient data processing and analysis. Users can input their favorite movie, and the system suggests the top 30 similar movies, enhancing the user experience with personalized recommendations. This project demonstrates strong skills in data preprocessing, feature engineering, and the application of similarity metrics in a real-world context.
+
+Technologies Used: Python, Pandas, Scikit-learn, Difflib, TF-IDF Vectorization, Cosine Similarity, Natural Language Processing (NLP).
